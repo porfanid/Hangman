@@ -10,5 +10,5 @@ The code is platform independent. The only thing plaatform dependent code is req
 # Tkinter
 Tkinter is being used for the graphics user interface (aka gui)
 
-#Sentry-SDK
+# Sentry-SDK
 Sentry sdk is being used for error reporting.
